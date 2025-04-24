@@ -26,4 +26,5 @@ Explicitely mentioned BUILD Commands for a cleaner build into .war file (Web App
 ![Screenshot (136)](https://github.com/user-attachments/assets/21623d86-24ae-441d-bcf9-2beb88fc58d3)
 
 ## Setting up post build actions to copy build file to tomcat(local)
-![image](https://github.com/user-attachments/assets/a7e80649-2b1e-422c-9838-fd7d640bd4e1)
+![Screenshot (137)](https://github.com/user-attachments/assets/e2ee9452-fb24-4ef6-b436-dc0c059b2614)
+
